@@ -1,6 +1,6 @@
 # Analise de Venda de uma Empresa Fictícia
 
-Este projeto foi desenvolvido para realizar uma análise de vendas da empresa "MultiVendas". Foi utilzado o Power BI para criar gráficos e insights sobre a performance de vendas.
+Este projeto foi desenvolvido para realizar uma análise de vendas de uma empresa fictícia "MultiVendas". Foi utilzado o Power BI para criar gráficos e insights sobre a performance de vendas.
 
 ## Gráficos Inclusos
 - **Receita Total por Mês**
